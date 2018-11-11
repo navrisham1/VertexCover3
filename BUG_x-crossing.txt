@@ -1,0 +1,3 @@
+a "up and across st" (0,0) (10,10)
+a "down and across st" (0,10)(10,0)
+g
